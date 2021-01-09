@@ -1,5 +1,6 @@
 {
     "name": "Kucukcirak_Deneme",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "core": "*",
